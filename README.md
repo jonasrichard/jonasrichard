@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Current hobby projects:
+
+- a HTTP capture tool which capture only specific requests which match to the conditions [Go HTTP Capture](https://github.com/jonasrichard/go-http-capture)
+- MetalMQ an async Rust AMQP 0.9 client and server implementation [MetalMQ](https://github.com/jonasrichard/metalmq)
+
 <!--
 **jonasrichard/jonasrichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
